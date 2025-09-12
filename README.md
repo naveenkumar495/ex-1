@@ -92,6 +92,7 @@ httpd.serve_forever()
 
 ![WhatsApp Image 2025-09-01 at 08 34 36_5c7c6b69](https://github.com/user-attachments/assets/249e6891-f13a-475c-b81b-b5b00d5c24fd)
 
+![WhatsApp Image 2025-09-01 at 18 23 35_2c188a5d](https://github.com/user-attachments/assets/85b64185-8449-4f46-a67b-fab6473bc9fa)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
